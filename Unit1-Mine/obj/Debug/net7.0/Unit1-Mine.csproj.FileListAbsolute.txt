@@ -1,0 +1,12 @@
+C:\Users\askia\SDF - KUMAR\LABS\LAB2\Unit1-Mine\bin\Debug\net7.0\Unit1-Mine.deps.json
+C:\Users\askia\SDF - KUMAR\LABS\LAB2\Unit1-Mine\bin\Debug\net7.0\Unit1-Mine.dll
+C:\Users\askia\SDF - KUMAR\LABS\LAB2\Unit1-Mine\bin\Debug\net7.0\Unit1-Mine.pdb
+C:\Users\askia\SDF - KUMAR\LABS\LAB2\Unit1-Mine\obj\Debug\net7.0\Unit1-Mine.csproj.AssemblyReference.cache
+C:\Users\askia\SDF - KUMAR\LABS\LAB2\Unit1-Mine\obj\Debug\net7.0\Unit1-Mine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\askia\SDF - KUMAR\LABS\LAB2\Unit1-Mine\obj\Debug\net7.0\Unit1-Mine.AssemblyInfoInputs.cache
+C:\Users\askia\SDF - KUMAR\LABS\LAB2\Unit1-Mine\obj\Debug\net7.0\Unit1-Mine.AssemblyInfo.cs
+C:\Users\askia\SDF - KUMAR\LABS\LAB2\Unit1-Mine\obj\Debug\net7.0\Unit1-Mine.csproj.CoreCompileInputs.cache
+C:\Users\askia\SDF - KUMAR\LABS\LAB2\Unit1-Mine\obj\Debug\net7.0\Unit1-Mine.dll
+C:\Users\askia\SDF - KUMAR\LABS\LAB2\Unit1-Mine\obj\Debug\net7.0\refint\Unit1-Mine.dll
+C:\Users\askia\SDF - KUMAR\LABS\LAB2\Unit1-Mine\obj\Debug\net7.0\Unit1-Mine.pdb
+C:\Users\askia\SDF - KUMAR\LABS\LAB2\Unit1-Mine\obj\Debug\net7.0\ref\Unit1-Mine.dll
